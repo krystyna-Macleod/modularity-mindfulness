@@ -1,11 +1,20 @@
 html {
   font-family: "Noto Sans Japanese", sans-serif;
   font-family: 'Noto Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 main {
   border-bottom: 2px solid #e2e2e2;
   border-top: 2px solid #e2e2e2;
+}
+
+.img-flex {
+
 }
 
 .btn-ghost {
