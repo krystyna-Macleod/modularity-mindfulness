@@ -5,13 +5,13 @@ html {
 
 .btn-ghost {
   color: #860927;
-  border: 2px solid #860927;
+  border: 2px solid #b64c6e;
   border-radius: 3px;
   padding: 2px;
 }
 
-.btn:hover {
-
+.btn-ghost:hover {
+ background-color: #e2e2e2;
 }
 
 .btn {
