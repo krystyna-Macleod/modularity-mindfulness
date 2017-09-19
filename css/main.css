@@ -12,6 +12,7 @@ html {
 }
 
 a {
+  text-decoration: none;
   color: #860927;
 }
 
@@ -37,9 +38,14 @@ a:hover {
   color: #d89fb0;
 }
 
+.nav-a {
+  border-bottom: 2px solid #860927;
+}
+
 nav ul li {
   display: inline-block;
   list-style-type: none;
+  text-decoration: none;
 }
 
 @media only screen and (min-width: 60em) {
