@@ -17,3 +17,11 @@ html {
 .btn {
   color: #860927;
 }
+
+.btn:hover {
+  color: #b64c6e;
+}
+
+ul {
+  list-style-type: none;
+}
