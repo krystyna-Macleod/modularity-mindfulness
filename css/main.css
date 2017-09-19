@@ -3,6 +3,11 @@ html {
   font-family: 'Noto Sans', sans-serif;
 }
 
+main {
+  border-bottom: 2px solid #e2e2e2;
+  border-top: 2px solid #e2e2e2;
+}
+
 .btn-ghost {
   color: #860927;
   border: 2px solid #b64c6e;
@@ -19,7 +24,7 @@ html {
 }
 
 .btn:hover {
-  color: #b64c6e;
+  color: #d89fb0;
 }
 
 ul {
