@@ -4,5 +4,16 @@ html {
 }
 
 .btn-ghost {
+  color: #860927;
+  border: 2px solid #860927;
+  border-radius: 3px;
+  padding: 2px;
+}
 
+.btn:hover {
+
+}
+
+.btn {
+  color: #860927;
 }
