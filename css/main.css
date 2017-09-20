@@ -26,18 +26,14 @@ a:hover {
   border-radius: 3px;
 }
 
-.btn:hover {
-  color: #860927;
-  border: 2px solid #860927;
-  background-color: #e2e2e2;
-}
-
 .btn {
   color: #b64c6e;
 }
 
 .btn:hover {
-  color: #d89fb0;
+  color: #860927;
+  border: 2px solid #860927;
+  background-color: #e2e2e2;
 }
 
 .nav-a {
