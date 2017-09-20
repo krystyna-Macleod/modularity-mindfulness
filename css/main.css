@@ -42,6 +42,10 @@ a:hover {
   border-bottom: 2px solid #b64c6e;
 }
 
+footer {
+  border-top: 2px solid #e2e2e2;
+}
+
 nav ul li {
   display: inline-block;
   list-style-type: none;
