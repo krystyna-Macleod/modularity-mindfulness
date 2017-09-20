@@ -33,7 +33,7 @@ a:hover {
 .btn:hover {
   color: #860927;
   border: 2px solid #860927;
-  background-color: #e2e2e2;
+  background-color: #d89fb0;
 }
 
 .nav-a {
@@ -41,6 +41,7 @@ a:hover {
 }
 
 footer {
+  color: #e2e2e2;
   border-top: 2px solid #e2e2e2;
 }
 
